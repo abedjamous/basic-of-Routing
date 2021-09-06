@@ -18,7 +18,7 @@ export class DepartmentListComponent implements OnInit {
   public selectedId: any;
 
   departments = [
-    {"id": 1, "name": "Angulat"},
+    {"id": 1, "name": "Angular"},
     {"id": 2, "name": "Node"},
     {"id": 3, "name": "MongoDB"},
     {"id": 4, "name": "React"},
